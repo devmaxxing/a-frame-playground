@@ -1,0 +1,393 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3181,
+      "max": [
+        189.0517578125,
+        143.01570129394531,
+        912.13494873046875
+      ],
+      "min": [
+        -191.97726440429688,
+        -80.745742797851562,
+        22.134487152099609
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 38172,
+      "componentType": 5126,
+      "count": 3181,
+      "max": [
+        0.99980723857879639,
+        0.99950599670410156,
+        0.98280000686645508
+      ],
+      "min": [
+        -0.9999319314956665,
+        -0.99997276067733765,
+        -0.78666943311691284
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3181,
+      "max": [
+        0.75129598379135132,
+        1.1282180547714233
+      ],
+      "min": [
+        0.24870400130748749,
+        -0.076555997133255005
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3181,
+      "max": [
+        0.99998193979263306,
+        0.99997061491012573,
+        0.3959205150604248,
+        1
+      ],
+      "min": [
+        -0.99901974201202393,
+        -0.99998420476913452,
+        -0.46215593814849854,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 16947,
+      "max": [
+        3180
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 76344,
+      "componentType": 5126,
+      "count": 296,
+      "max": [
+        188.73138427734375,
+        20.595798492431641,
+        638.2642822265625
+      ],
+      "min": [
+        -188.93426513671875,
+        -60.558261871337891,
+        408.71322631835938
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 79896,
+      "componentType": 5126,
+      "count": 296,
+      "max": [
+        0.98379015922546387,
+        0.99717891216278076,
+        0.99929994344711304
+      ],
+      "min": [
+        -0.98379004001617432,
+        -0.99717903137207031,
+        -0.99930024147033691
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 50896,
+      "componentType": 5126,
+      "count": 296,
+      "max": [
+        0.99785274267196655,
+        0.98831462860107422,
+        0.98520159721374512,
+        1
+      ],
+      "min": [
+        -0.99785268306732178,
+        -0.9883149266242981,
+        -0.98520141839981079,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 67788,
+      "componentType": 5125,
+      "count": 816,
+      "max": [
+        295
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "generator": "Sketchfab (OSG glTF plugin)",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 71052,
+      "byteOffset": 0,
+      "name": "ScalarBufferView",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 25448,
+      "byteOffset": 71052,
+      "byteStride": 8,
+      "name": "Vec3BufferView",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 83448,
+      "byteOffset": 96500,
+      "byteStride": 12,
+      "name": "Vec4BufferView",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 55632,
+      "byteOffset": 179948,
+      "byteStride": 16,
+      "name": "MatrixBufferView",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 235580,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/FABRIC_5_FRONT_3752_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "FABRIC_5_FRONT_3752",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Material #45",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.027451,
+          0.027451,
+          0.027451,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "CAMO PANTS",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 3,
+            "TEXCOORD_0": 2
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7
+          },
+          "indices": 8,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "CAMO PANTS.FBX"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.2204460492503131e-16,
+        -1,
+        0,
+        0,
+        1,
+        2.2204460492503131e-16,
+        0,
+        176.09902954101562,
+        654.670166015625,
+        -19.642402648925781,
+        1
+      ],
+      "name": "CAMO PANTS"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        1,
+        0,
+        -0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        -176.09902954101562,
+        -19.642402648925781,
+        -654.670166015625,
+        1
+      ],
+      "name": ""
+    },
+    {
+      "mesh": 0,
+      "name": "CAMO PANTS"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
+
